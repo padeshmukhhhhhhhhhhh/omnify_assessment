@@ -20,6 +20,7 @@ git clone -b master https://github.com/padeshmukhhhhhhhhhhh/omnify_assessment.gi
 **On Windows:**
 
 ```bash
+cd omnify_assessment
 python -m venv venv
 venv\Scripts\activate
 ```
@@ -27,6 +28,7 @@ venv\Scripts\activate
 
 On Linux/macOS:
 ```bash
+cd omnify_assessment
 python3 -m venv venv
 source venv/bin/activate
 ```
