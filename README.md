@@ -85,7 +85,7 @@ curl "http://localhost:8000/api/classes/?tz=Europe/London"
 - **Body (raw JSON):**
 ```json
 {
-  "fitness_class": 1,
+  "class_id": 1,
   "client_name": "John Doe",
   "client_email": "john@example.com"
 }
